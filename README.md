@@ -31,4 +31,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrNweo)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--- https://dev.to/envoy_/150-badges-for-github-pnk --->
+<!--- https://dev.to/envoy_/150-badges-for-github-pnk https://shields.io/ --->
