@@ -10,11 +10,7 @@
 
 #### Contact
 
-<a href="https://www.twitter.com/SrNweo/">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.instagram.com/srnweo0/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-More in: https://srnweo.github.io/
+Check: https://srnweo.github.io/
 
 #### Donations
 <a href="https://ko-fi.com/srnweo"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <a href="https://paypal.me/horyhe"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
