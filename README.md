@@ -13,8 +13,7 @@
 Check: https://srnweo.github.io/
 
 #### Donations
-<a href="https://ko-fi.com/srnweo"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <a href="https://paypal.me/horyhe"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-
+<a href="https://ko-fi.com/srnweo"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 ## ⚒ *Current Projects*
 
 ## 📊 *Stats*
